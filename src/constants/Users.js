@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8080";
+const BASE_URL = "https://usuarios-crud.onrender.com";
 
 
 export {BASE_URL};
